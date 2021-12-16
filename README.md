@@ -1,13 +1,6 @@
 
 
-### 🧑‍💻: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;📖: &nbsp;Currently working as a Software Developer at Used.ca \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;.\
-&nbsp;&nbsp;&nbsp;🐍: &nbsp;\
-&nbsp;&nbsp;&nbsp;📷: &nbsp;\
-&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in the beautiful city of Victoria, BC!
 
 <p align="center">
   <a href="mailto:jacklhanlon@yahoo.co.uk"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
