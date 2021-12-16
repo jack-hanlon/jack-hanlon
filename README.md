@@ -21,6 +21,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)\
 ![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
 </details>
 
 <!--
