@@ -1,12 +1,12 @@
-<img src="images/Banner.gif"></img>
+
 
 ### 🧑‍💻: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;📖: &nbsp;Currently studying Computer Science at the University of Victoria. \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passion for developing applications and utilizing machine learning techniques to solve problems.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Creative and enthusiastic Computer Scientist with a passion for both learning and helping others.\
-&nbsp;&nbsp;&nbsp;🐍: &nbsp;Currently working on my BattleSnake: [Crimson Snake](https://github.com/DillanSpencer/Crimson-Snake)\
-&nbsp;&nbsp;&nbsp;📷: &nbsp;In my spare time I enjoy portrait photography!\
+&nbsp;&nbsp;&nbsp;📖: &nbsp;Currently working as a Software Developer at Used.ca \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;.\
+&nbsp;&nbsp;&nbsp;🐍: &nbsp;\
+&nbsp;&nbsp;&nbsp;📷: &nbsp;\
 &nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in the beautiful city of Victoria, BC!
 
 <p align="center">
