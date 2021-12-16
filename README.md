@@ -12,7 +12,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Languages</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@ Details
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Expertise</b></summary>
   <br/>
 
 ![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
@@ -59,7 +59,7 @@ Details
 -->
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jack-hanlon&hide_border=true&theme=nightowl" />
