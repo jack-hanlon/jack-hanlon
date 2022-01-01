@@ -20,8 +20,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)\
-![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?&style=flat&logo=php&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-%231572B6.svg?&style=flat&logo=r&logoColor=white)&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-%231572B6.svg?&style=flat&logo=matlab&logoColor=white)&nbsp;
+![ASSEMBLY](https://img.shields.io/badge/ASSEMBLY-%231572B6.svg?&style=flat&logo=assembly&logoColor=white)&nbsp;
 </details>
 
 <!--
@@ -37,6 +39,8 @@ Details
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Atom](https://img.shields.io/badge/ATOM-007ACC.svg?&style=flat&logo=atom)&nbsp;
+![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
 </details>
 
 <!--
