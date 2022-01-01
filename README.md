@@ -41,6 +41,7 @@ Details
 ![Atom](https://img.shields.io/badge/ATOM-007ACC.svg?&style=flat&logo=atom)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
+![DJANGO](https://img.shields.io/badge/DJANGO-%2320232a.svg?style=flat&logo=django&logoColor=%2361DAFB)&nbsp;
 </details>
 
 <!--
