@@ -40,7 +40,7 @@ Details
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Atom](https://img.shields.io/badge/ATOM-007ACC.svg?&style=flat&logo=atom)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-![REACT NATIVE](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![REACT NATIVE](https://img.shields.io/badge/REACT NATIVE-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
 ![DJANGO](https://img.shields.io/badge/DJANGO-%2320232a.svg?style=flat&logo=django&logoColor=%2361DAFB)&nbsp;
 </details>
