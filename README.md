@@ -31,7 +31,7 @@ Details
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Expertise</b></summary>
+  <summary><b>:brain: &nbsp;Software</b></summary>
   <br/>
 
 
