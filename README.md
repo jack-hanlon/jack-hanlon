@@ -43,6 +43,7 @@ Details
 ![REACT NATIVE](https://img.shields.io/badge/REACT-NATIVE-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
 ![DJANGO](https://img.shields.io/badge/DJANGO-%2320232a.svg?style=flat&logo=django&logoColor=%2361DAFB)&nbsp;
+![FLASK](https://img.shields.io/badge/FLASK-%2320232a.svg?style=flat&logo=flask&logoColor=%2361DAFB)&nbsp;
 </details>
 
 <!--
