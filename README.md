@@ -46,6 +46,7 @@ Details
 ![FLASK](https://img.shields.io/badge/FLASK-%2320232a.svg?style=flat&logo=flask&logoColor=%2361DAFB)&nbsp;
 ![MONGODB](https://img.shields.io/badge/MONGODB-%2320232a.svg?style=flat&logo=mongodb&logoColor=%2361DAFB)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-%2320232a.svg?style=flat&logo=postgresql&logoColor=%2361DAFB)&nbsp;
+![ANDROID](https://img.shields.io/badge/ANDROID-%2320232a.svg?style=flat&logo=android&logoColor=%2361DAFB)&nbsp;
 </details>
 
 <!--
