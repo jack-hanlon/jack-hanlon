@@ -67,8 +67,8 @@ Details
 <hr/>
 <br/>
 
-<p align="right">
+<!-- <p align="right">
 <img src="https://komarev.com/ghpvc/?username=jack-hanlon&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/jack-hanlon/jack-hanlon?color=black&logo=github" />
 </p>
-
+ -->
