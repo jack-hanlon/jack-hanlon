@@ -24,6 +24,7 @@
 ![R](https://img.shields.io/badge/R-%231572B6.svg?&style=flat&logo=r&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-%231572B6.svg?&style=flat&logo=matlab&logoColor=white)&nbsp;
 ![ASSEMBLY](https://img.shields.io/badge/ASSEMBLY-%231572B6.svg?&style=flat&logo=assembly&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3776AB.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 </details>
 
 <!--
@@ -47,6 +48,7 @@ Details
 ![MONGODB](https://img.shields.io/badge/MONGODB-%2320232a.svg?style=flat&logo=mongodb&logoColor=%2361DAFB)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-%2320232a.svg?style=flat&logo=postgresql&logoColor=%2361DAFB)&nbsp;
 ![ANDROID](https://img.shields.io/badge/ANDROID-%2320232a.svg?style=flat&logo=android&logoColor=%2361DAFB)&nbsp;
+
 </details>
 
 <!--
