@@ -25,7 +25,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%231572B6.svg?&style=flat&logo=matlab&logoColor=white)&nbsp;
 ![ASSEMBLY](https://img.shields.io/badge/ASSEMBLY-%231572B6.svg?&style=flat&logo=assembly&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3776AB.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-3b3b3b.svg?&style=flat&logo=c++&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/Cplusplus-3b3b3b.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 
 </details>
 
