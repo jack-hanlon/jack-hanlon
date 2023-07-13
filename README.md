@@ -26,7 +26,7 @@
 ![ASSEMBLY](https://img.shields.io/badge/ASSEMBLY-%231572B6.svg?&style=flat&logo=assembly&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3776AB.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-3b3b3b.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
-![Cuda](https://img.shields.io/badge/C++-3b3b3b.svg?&style=flat&logo=cuda&logoColor=white)&nbsp;
+![Cuda](https://img.shields.io/badge/cuda-3b3b3b.svg?&style=flat&logo=cuda&logoColor=white)&nbsp;
 
 </details>
 
