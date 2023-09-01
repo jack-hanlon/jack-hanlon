@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-hanlon)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-hanlon)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-hanlon&hide=jupyter%20notebook&layout=compact&exclude_repo=dwm,dmenu,st-1,st,dwm-archived,DWMIM,dotfiles,ugrind)](https://github.com/anuraghazra/github-readme-stats)
 
 
