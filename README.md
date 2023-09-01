@@ -78,17 +78,17 @@ Details
 <!--
 Details
 -->
-<!--
+
 <details>
   <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
   <br/>
-  -->
+  
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jack-hanlon&hide_border=true&theme=nightowl" />
     </p>
-<!--
+
 </details>
--->
+
 <hr/>
 <br/>
 
