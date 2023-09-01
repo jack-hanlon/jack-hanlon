@@ -1,13 +1,30 @@
+### Hi there 👋
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-hanlon)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-hanlon&layout=compact&exclude_repo=dwm,dmenu,st-1,st,dwm-archived,DWMIM,dotfiles,ugrind)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!--
 <p align="center">
   <a href="mailto:jacklhanlon@yahoo.co.uk"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/jackhanlonfit/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jack-hanlon-50267a125/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
-
+-->
 <hr/>
 
 <details>
