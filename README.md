@@ -49,10 +49,6 @@ Here are some ideas to get you started:
 
 </details>
 
-Details
-
-
-
 <details>
   <summary><b>:brain: &nbsp;Software</b></summary>
   <br/>
@@ -73,8 +69,6 @@ Details
 
 
 </details>
-
-Details
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
