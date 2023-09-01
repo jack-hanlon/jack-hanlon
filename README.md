@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 -->
 <hr/>
 
+<!--
 <details>
   <summary><b>:computer: &nbsp;Languages</b></summary>
   <br/>
-
+-->
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-3b3b3b.svg?&style=flat&logo=c&logoColor=white)&nbsp;
@@ -45,16 +46,18 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-3b3b3b.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-3b3b3b.svg?&style=flat&logo=sql&logoColor=white)&nbsp;
 
+<!--
 </details>
-
+-->
 <!--
 Details
 -->
 
+<!--
 <details>
   <summary><b>:brain: &nbsp;Software</b></summary>
   <br/>
-
+-->
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
@@ -69,20 +72,23 @@ Details
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-%2320232a.svg?style=flat&logo=postgresql&logoColor=%2361DAFB)&nbsp;
 ![ANDROID](https://img.shields.io/badge/ANDROID-%2320232a.svg?style=flat&logo=android&logoColor=%2361DAFB)&nbsp;
 
+<!--
 </details>
-
+-->
 <!--
 Details
 -->
-
+<!--
 <details>
   <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
   <br/>
+  -->
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jack-hanlon&hide_border=true&theme=nightowl" />
     </p>
+<!--
 </details>
-
+-->
 <hr/>
 <br/>
 
