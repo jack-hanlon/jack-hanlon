@@ -31,20 +31,15 @@ Here are some ideas to get you started:
 <details>
   <summary><b> &nbsp;Languages</b></summary>
   <br/>
-  
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-3b3b3b.svg?&style=flat&logo=c&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)\
-![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?&style=flat&logo=php&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-%231572B6.svg?&style=flat&logo=r&logoColor=white)&nbsp;
-![MATLAB](https://img.shields.io/badge/MATLAB-%231572B6.svg?&style=flat&logo=matlab&logoColor=white)&nbsp;
-![ASSEMBLY](https://img.shields.io/badge/ASSEMBLY-%231572B6.svg?&style=flat&logo=assembly&logoColor=white)&nbsp;
+
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3776AB.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-3b3b3b.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-3b3b3b.svg?&style=flat&logo=sql&logoColor=white)&nbsp;
+![SCSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-%231572B6.svg?&style=flat&logo=matlab&logoColor=white)&nbsp;
 
 
 </details>
@@ -57,7 +52,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-![Atom](https://img.shields.io/badge/ATOM-007ACC.svg?&style=flat&logo=atom)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![REACT NATIVE](https://img.shields.io/badge/REACT-NATIVE-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
