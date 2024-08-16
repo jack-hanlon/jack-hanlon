@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary><b>:computer: &nbsp;Languages</b></summary>
+  <summary><b> &nbsp;Languages</b></summary>
   <br/>
   
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Software</b></summary>
+  <summary><b> &nbsp;Software</b></summary>
   <br/>
 
 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
+  <summary><b> &nbsp;GitHub Stats</b></summary>
   <br/>
   
   <p align="center">
