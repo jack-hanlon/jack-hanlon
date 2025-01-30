@@ -50,9 +50,6 @@ Here are some ideas to get you started:
   <br/>
 
 
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![REACT NATIVE](https://img.shields.io/badge/REACT-NATIVE-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![VUE](https://img.shields.io/badge/VUE-%2320232a.svg?style=flat&logo=vue&logoColor=%2361DAFB)&nbsp;
@@ -61,6 +58,7 @@ Here are some ideas to get you started:
 ![MONGODB](https://img.shields.io/badge/MONGODB-%2320232a.svg?style=flat&logo=mongodb&logoColor=%2361DAFB)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-%2320232a.svg?style=flat&logo=postgresql&logoColor=%2361DAFB)&nbsp;
 ![ANDROID](https://img.shields.io/badge/ANDROID-%2320232a.svg?style=flat&logo=android&logoColor=%2361DAFB)&nbsp;
+![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=ios&logoColor=%2361DAFB)&nbsp;
 
 
 </details>
