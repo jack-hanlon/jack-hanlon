@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <br/>
 
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3776AB.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/GO-3776AB.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-3b3b3b.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-3b3b3b.svg?&style=flat&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
