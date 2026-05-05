@@ -1,6 +1,6 @@
 ### Hey, I'm Jack 👋
 
-Software Engineer with 4+ years of experience building scalable microservices and high-performance frontends. Currently working at **EducationPlannerBC** as an API Developer, and founder of **Proxima Fitness**. I specialize in Go, TypeScript, and have a background in GPU computing — including an 8,700x speedup on a Monte Carlo simulation for the Canadian Space Agency. Winner of the Y Combinator / Supabase Select Hackathon. 🏆
+I'm a software engineer based in Vancouver, BC. I spend most of my time working with Go and TypeScript, though I've been known to dabble in GPU kernels when the situation calls for it. When I'm not at my day job I'm working on Proxima Fitness — an AI personal trainer app. Always happy to chat code, fitness, or anything in between.
 
 <hr/>
 
