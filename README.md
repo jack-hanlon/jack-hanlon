@@ -73,7 +73,7 @@ Here are some ideas to get you started:
     
   </p>
   
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jack-hanlon&theme=gruvbox)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jack-hanlon&theme=nightowl)
 
 </details>
 
