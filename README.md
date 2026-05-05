@@ -68,11 +68,11 @@ Here are some ideas to get you started:
   <summary><b> &nbsp;GitHub Stats</b></summary>
   <br/>
   
-  <p align="center">
+  <p align="left">
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jack-hanlon&hide_border=true&theme=nightowl" />
-    ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jack-hanlon&theme=gruvbox)
-
+    
   </p>
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jack-hanlon&theme=gruvbox)
 
 </details>
 
