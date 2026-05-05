@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <hr/>
 
 
-<details>
+<details open>
   <summary><b> &nbsp;Languages</b></summary>
   <br/>
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+<details open>
   <summary><b> &nbsp;Software</b></summary>
   <br/>
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+<details open>
   <summary><b> &nbsp;GitHub Stats</b></summary>
   <br/>
   
