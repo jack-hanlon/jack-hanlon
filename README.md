@@ -70,9 +70,10 @@ Here are some ideas to get you started:
   
   <p align="center">
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jack-hanlon&hide_border=true&theme=nightowl" />
+    ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jack-hanlon&theme=gruvbox)
+
   </p>
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jack-hanlon&theme=gruvbox)
 </details>
 
 <hr/>
