@@ -1,6 +1,6 @@
 ### Hey, I'm Jack 👋
 
-I'm a software engineer based in Victoria, BC. I spend most of my time working with Go and TypeScript, though I've dabbled in GPU kernels when the situation calls for it. When I'm not at my day job I'm working on Proxima Fitness an Agentic Fitness Companion and Workout Builder. Always happy to chat code, fitness, or anything in between.
+I'm a software engineer based in Victoria, BC. I spend most of my time working with Go and TypeScript. When I'm not at my day job I'm working on Proxima Fitness an Agentic Fitness Coach. Always happy to chat code, fitness, or anything in between.
 
 <hr/>
 
