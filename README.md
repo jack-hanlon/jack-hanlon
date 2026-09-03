@@ -1,6 +1,6 @@
 ### Hey, I'm Jack 👋
 
-I'm a software engineer based in Victoria, BC. I spend most of my time working with Go and TypeScript. When I'm not at my day job I'm working on Proxima Fitness Your Unified Training Coach.
+I'm a software engineer based in Calgary, Alberta. I'm working on Proxima Fitness a fitness tool that helps you build programs around your life.
 
 <hr/>
 
