@@ -1,6 +1,6 @@
 ### Hey, I'm Jack 👋
 
-I'm a software engineer based in Calgary, Alberta. I'm working on Proxima Fitness a fitness tool that helps you build programs around your life.
+I'm a software engineer based in Calgary, Alberta. I'm working on Proxima Fitness an agentic tool that helps you build workout programs around your life.
 
 <hr/>
 
